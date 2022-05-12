@@ -30,3 +30,7 @@ Go to the repository where you have your manga downloaded and use the tool on \*
 ```bash
 optimizeManga *
 ```
+
+## Current problems
+
+-   If the first file has space in it, it could lead to bug.
